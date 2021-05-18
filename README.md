@@ -8,3 +8,4 @@
 ~~Cloned Repo~~  
 ~~Staged and Committed Changes~~  
 ~~Updated README~~  
+Check that `pull` works correctly
